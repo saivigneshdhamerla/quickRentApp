@@ -8,19 +8,19 @@ import { cn } from '../utils/cn';
 const gadgets = [
   {
     name: 'Gaming Console',
-    price: '$25/day',
+    price: '₹1000/day',
     image: 'https://images.unsplash.com/photo-1486401899868-0e435ed85128?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80',
     features: ['Latest PS5/Xbox', '2 Controllers', 'Popular Games Included', '4K Gaming'],
   },
   {
     name: 'Professional Camera',
-    price: '$35/day',
+    price: '₹2000/day',
     image: 'https://images.unsplash.com/photo-1516035069371-29a1b244cc32?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80',
     features: ['4K Video', 'Multiple Lenses', 'Stabilization', 'Pro Equipment'],
   },
   {
     name: 'Premium Laptop',
-    price: '$45/day',
+    price: '₹3000/day',
     image: 'https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80',
     features: ['Latest Processors', 'High-End Graphics', 'SSD Storage', 'Pro Software'],
   },

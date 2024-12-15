@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { Mail, Phone, MapPin } from 'lucide-react';
 
 export default function ContactForm() {
@@ -60,7 +60,7 @@ export default function ContactForm() {
                 <MapPin className="h-6 w-6 text-indigo-600 dark:text-indigo-400" />
                 <div className="ml-4">
                   <h4 className="text-lg font-medium text-gray-900 dark:text-white">Visit Us</h4>
-                  <p className="mt-1 text-gray-600 dark:text-gray-400">123 Tech Street, Silicon Valley, CA 94025</p>
+                  <p className="mt-1 text-gray-600 dark:text-gray-400">123 Fab city, Hyderabad, TG 500001</p>
                 </div>
               </div>
               <div className="flex items-center">
@@ -74,7 +74,7 @@ export default function ContactForm() {
                 <Phone className="h-6 w-6 text-indigo-600 dark:text-indigo-400" />
                 <div className="ml-4">
                   <h4 className="text-lg font-medium text-gray-900 dark:text-white">Call Us</h4>
-                  <p className="mt-1 text-gray-600 dark:text-gray-400">+1 (555) 123-4567</p>
+                  <p className="mt-1 text-gray-600 dark:text-gray-400">+91 1234567890</p>
                 </div>
               </div>
             </div>

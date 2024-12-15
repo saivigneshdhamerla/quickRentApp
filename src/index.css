@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    font-family: "Outfit", serif;
+  }
+
+h1, h2, h3, p {
+    font-family: "Outfit", serif;
+  }
