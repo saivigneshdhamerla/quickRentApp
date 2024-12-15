@@ -24,4 +24,10 @@ To set up and run the QuickRentApp project locally, follow these steps:
 
 Deploy Link : 
 
-"# QuickRent-App" 
+https://quickrentapp.netlify.app/
+
+screenShots
+
+![Screenshot 2024-12-15 165154](https://github.com/user-attachments/assets/d4e7610d-2e20-4a1b-9a5c-44e242b52a61)
+
+
